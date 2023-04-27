@@ -65,7 +65,7 @@ const Card = () => {
             </div>
             <h1 className="forgot-passoword">Esqueceu a senha?</h1>
 
-            <button className="button-login">LOGIN</button>
+            <button>LOGIN</button>
           </div>
 
           <div>
